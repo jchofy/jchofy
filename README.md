@@ -1,10 +1,10 @@
 
 
-# About me
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+## About me
+Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.<br><br>
 ## Github Languajes
 
-[![Es Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchofy&layout=compact&bg_color=141321&text_color=ffff&title_color=2f80ec)](https://github.com/jchofy/github-readme-stats)
+[![Es Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchofy&layout=compact&bg_color=141321&text_color=ffff&title_color=2f80ec)](https://github.com/jchofy/github-readme-stats)<br><br>
 
 
 ## Skills
