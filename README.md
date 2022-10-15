@@ -1,4 +1,4 @@
-<h3 style="color:blue" align="center">A passionate frontend developer from India</h3>
+<h3 style="background-color:#fff" align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
