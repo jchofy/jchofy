@@ -1,7 +1,19 @@
 
 
 ## About me
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.<br><br>
+Soy un desarrollador con una sólida formación en
+programación y un amplio interés en el ámbito del desarrollo
+web.
+Poseo habilidades en varios lenguajes como son Javascript,
+Java, TypeScript, PHP. También tengo mucho conocimiento en
+gestores de bases de datos como MYSQL y Firebase.
+Además tambien me considero un experto en tratamientos de
+imagen con los programas de la suite de Adobe como son
+photoshop e ilustrator.
+Me apasiona la tecnología y desde pequeño he sido un
+aventurero a la hora de investigar todo por mi cuenta en
+internet, buscando aprender nuevas habilidades y estar al día
+con las últimas tendencias en el desarrollo del software.
 ## Github Languajes
 
 [![Es Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchofy&layout=compact&bg_color=141321&text_color=ffff&title_color=2f80ec)](https://github.com/jchofy/github-readme-stats)<br><br>
