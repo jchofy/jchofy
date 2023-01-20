@@ -1,6 +1,6 @@
 
 
-## About me
+## Sobre mí
 Soy un desarrollador con una sólida formación en
 programación y un amplio interés en el ámbito del desarrollo
 web.<br><br>
