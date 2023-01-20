@@ -3,13 +3,13 @@
 ## About me
 Soy un desarrollador con una sólida formación en
 programación y un amplio interés en el ámbito del desarrollo
-web.<br>
+web.<br><br>
 Poseo habilidades en varios lenguajes como son Javascript,
 Java, TypeScript, PHP. También tengo mucho conocimiento en
 gestores de bases de datos como MYSQL y Firebase.
 Además tambien me considero un experto en tratamientos de
 imagen con los programas de la suite de Adobe como son
-photoshop e ilustrator.<br>
+photoshop e ilustrator.<br><br>
 Me apasiona la tecnología y desde pequeño he sido un
 aventurero a la hora de investigar todo por mi cuenta en
 internet, buscando aprender nuevas habilidades y estar al día
