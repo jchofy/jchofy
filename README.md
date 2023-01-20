@@ -14,12 +14,12 @@ Me apasiona la tecnología y desde pequeño he sido un
 aventurero a la hora de investigar todo por mi cuenta en
 internet, buscando aprender nuevas habilidades y estar al día
 con las últimas tendencias en el desarrollo del software.
-## Github Languajes
+## Lenguajes Github
 
 [![Es Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchofy&layout=compact&bg_color=141321&text_color=ffff&title_color=2f80ec)](https://github.com/jchofy/github-readme-stats)<br><br>
 
 
-## Skills
+## Tecnologías
 <div style="display: inline_block">
 <img aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img aling="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
