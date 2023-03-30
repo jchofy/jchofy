@@ -6,7 +6,7 @@ programación y un amplio interés en el ámbito del desarrollo
 web.<br><br>
 Poseo habilidades en varios lenguajes como son Javascript,
 Java, TypeScript, PHP. También tengo mucho conocimiento en
-gestores de bases de datos como MYSQL y Firebase.
+gestores de bases de datos como MYSQL.
 Además tambien me considero un experto en tratamientos de
 imagen con los programas de la suite de Adobe como son
 photoshop e ilustrator.<br><br>
